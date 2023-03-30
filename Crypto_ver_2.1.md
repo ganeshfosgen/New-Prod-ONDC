@@ -8,8 +8,11 @@ Specifically shared to assist in Onboarding of Network Participants in ONDC
 
 ### Use below postman collection to execute the same 
 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://github.com/protean-egov-org/New-Prod-ONDC/blob/main/sign-encrypt/Crypto%20V2.postman_collection.json)
+
+
 Download [Postman_Collection](/sign-encrypt/Crypto V2.postman_collection.json)
-Download [jar](/sign-encrypt/Crypto V2.postman_collection.json)
+Download [jar](/sign-encrypt/ondc-sign-encrypt.jar)
 
 * Generate Signing Keys
 * Generate Encryption Keys
